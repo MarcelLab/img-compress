@@ -64,6 +64,7 @@ prompt.get(schema, function(err, result) {
     console.log('[jpegcompress] %s .png to compress', pngFiles.length);
     console.log('[jpegcompress] %s .jpg to compress', jpgFiles.length);
 
+    /*
     jpgFiles.forEach(function(filename) {
         var file = path.join(result.folder, filename);
 
@@ -91,6 +92,7 @@ prompt.get(schema, function(err, result) {
 
         imagemin.optimize();
     });
+    */
 
 });
 

@@ -16,7 +16,7 @@ Use
 ---
 
 ```bash
-$   imgcompress
+imgcompress
 ```
 
 then answer the questions in the prompt :
