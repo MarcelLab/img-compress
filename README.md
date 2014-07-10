@@ -9,7 +9,7 @@ Install
 -------
 
 ```bash
-$   npm install -g git+https://github.com/MarcelLab/img-compress.git
+npm install -g git+https://github.com/MarcelLab/img-compress.git
 ```
 
 Use
