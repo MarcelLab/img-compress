@@ -8,14 +8,12 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "imagemin-jpeg-recompress": "~0.3.0"
-  },
   "preferGlobal": true,
   "bin": {
-    "jpegcompress": "bin.js"
+    "imgcompress": "bin.js"
   },
   "dependencies": {
-    "prompt": "~0.2.13"
+    "prompt": "~0.2.13",
+    "imagemin-jpeg-recompress": "~0.3.0"
   }
 }
