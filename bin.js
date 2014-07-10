@@ -3,7 +3,7 @@ var prompt = require('prompt')
   , fs = require('fs')
   , findR = require('./lib/find-recursive')
   , path = require('path')
-  , Imagemin = require('imagemin')
+  , Imagemin = require('image-min')
   , jpegRecompress = require('imagemin-jpeg-recompress')
 ;
 
